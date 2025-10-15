@@ -1,0 +1,20 @@
+{
+  "name": "adithyabsk-agent-skills",
+  "owner": {
+    "name": "Adithya Balaji",
+    "email": "adithya@adithyabalaji.com"
+  },
+  "metadata": {
+    "description": "Collected useful skills for various tasks",
+    "version": "0.0.1"
+  },
+  "plugins": [
+    {
+      "name": "all-skills",
+      "description": "Collection of personal skills",
+      "source": "./",
+      "strict": false,
+      "skills": []
+    }
+  ]
+}
