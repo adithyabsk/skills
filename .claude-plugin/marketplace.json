@@ -14,7 +14,9 @@
       "description": "Collection of personal skills",
       "source": "./",
       "strict": false,
-      "skills": []
+      "skills": [
+        "mathmod"
+      ]
     }
   ]
 }

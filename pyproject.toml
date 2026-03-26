@@ -1,0 +1,13 @@
+[project]
+name = "adithyabsk-agent-skills"
+version = "0.0.1"
+description = "Local tooling for validating Agent Skills and marketplace registration."
+requires-python = ">=3.11"
+
+[dependency-groups]
+dev = [
+  "skills-ref>=0.1.1",
+]
+
+[tool.uv]
+default-groups = ["dev"]
